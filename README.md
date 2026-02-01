@@ -47,6 +47,8 @@
 ## Long Break Mechanics
 > Once four focus sessions are completed in one play session, a long break *(10 minutes)* is allowed, opening up two more location options:
 
+<img src="projectImages/screens/BreakTime.png" height="150" alt="Long break screen">
+
 ### **Shop**
   > Users can purchase consumable items and equipment
 
