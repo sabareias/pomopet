@@ -1213,7 +1213,7 @@ void output_in_yellow(string output) {
 
  // run pomodoro timer
 void pomo_focus(PlayerPet& pet) {
-    const auto timer_duration = 0.05min;
+    const auto timer_duration = 20min;
     const auto start = steady_clock::now();
     duration<double> time_left = timer_duration - (steady_clock::now() - start);
     load_ascii("focustime.txt");
