@@ -26,7 +26,7 @@ public:
 
 	int age = 0;
 	int gold = 0;
-	int focusCt = 3;
+	int focusCt = 0;
 	int battlesWon = 0;
 	int racesWon = 0;
 	int trainingBonus = 0;
