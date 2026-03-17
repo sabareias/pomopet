@@ -7,7 +7,6 @@ A text-based productivity app that combines virtual pet simulation with a Pomodo
 ## Tech
 
 - **C++** — Console app with ASCII art and ANSI colors. Save data in `data/pet.txt` and `data/petInventory.txt`.
-- **Platform** — Windows only (ANSI escape sequences are enabled via the Windows console API).
 - **Build & run** — Open `PomoPet.sln` in Visual Studio, build and run.
 
 ## Gameplay cycle
